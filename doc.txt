@@ -1,0 +1,9 @@
+2048 Python
+Made by Marcus Secu
+v1
+
+to-do:
+
+log:
+2023-6-30:
+    > Created this document.
