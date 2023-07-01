@@ -3,6 +3,7 @@ Made by Marcus Secu
 v1
 
 to-do:
+    > Change color scheme of board (make white tiles darker)
 
 log:
 2023-6-30:
